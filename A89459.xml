@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons delivered by the Right Honourable the Earle of Manchester: for nulling the forc'd votes, and against the high and visible insolencies of those that forced the Houses. With a declaration of the House of Peeres acquitting themselves and other papers delivered at a conference of both Houses, on Wednesday, August 18. 1647. Also an ordinance of both houses of Parliament, appointing a secret committee for the sending for, and examining of parties and witnesses.</title>
+            <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89459</idno>
+            <idno type="STC">Wing M393</idno>
+            <idno type="STC">Thomason E403_2</idno>
+            <idno type="STC">ESTC R200386</idno>
+            <idno type="EEBO-CITATION">99861165</idno>
+            <idno type="PROQUEST">99861165</idno>
+            <idno type="VID">113293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113293)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E403[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons delivered by the Right Honourable the Earle of Manchester: for nulling the forc'd votes, and against the high and visible insolencies of those that forced the Houses. With a declaration of the House of Peeres acquitting themselves and other papers delivered at a conference of both Houses, on Wednesday, August 18. 1647. Also an ordinance of both houses of Parliament, appointing a secret committee for the sending for, and examining of parties and witnesses.</title>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113293:1" rendition="simple:additions"/>
+            <p>REASONS DELIVERED By the Right Honourable the Earle of <hi>MANCHESTER:</hi> FOR Nulling the forc'd VOTES, And a<g ref="char:EOLhyphen"/>gainſt the high and viſible inſolencies of thoſe that forced the HOUSES.</p>
+            <p>WITH A DECLARATION OF <hi>The Houſe of Peeres acquitting themſelves</hi> AND Other papers delivered at a Conference of both Houſes, on <hi>Wedneſday, Auguſt</hi> 18. 1647.</p>
+            <p>ALSO An Ordinance of both Houſes of Par<g ref="char:EOLhyphen"/>liament, appointing a ſecret Committee for the ſending for, and examining of Parties and Witneſſes.</p>
+            <p>
+               <add>Aug: 20<hi rend="sup">th</hi>
+               </add> Printed at <hi>London</hi> by <hi>Robert Ibbitſon.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:113293:2"/>
+            <pb n="1" facs="tcp:113293:2"/>
+            <head>REASONS Delivered By the Right Honourable the Earle of MANCHESTER FOR Nulling the forc'd VOTES.</head>
+            <head type="sub">AND Againſt the high and viſible inſolencies of thoſe that forced the Houſes.</head>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii Auguſt 18. 1647.</date>
+               </dateline>
+            </opener>
+            <p>AT a Conference of both Houſes, the Right Honourable the Earle of <hi>Manche<g ref="char:EOLhyphen"/>ſter</hi> delivered from the Lords to the Com<g ref="char:EOLhyphen"/>mons, theſe inſuing particulars,</p>
+            <p>That their Lordſhips had commanded
+<pb n="2" facs="tcp:113293:3"/>him to put them in minde, that <hi>Auguſt</hi> the 6th. Inſtant, the Lords ſent a Meſſage for their concurrence to an Ordinance making Null thoſe Orders which paſſed <hi>July</hi> 26th. by force, ſet upon both Houſes. And all other Orders, Votes, Ordinances, and pro<g ref="char:EOLhyphen"/>ceedings, from thence untill the ſixt of <hi>Auguſt</hi> following, by any pretence of Parliament, or power.</p>
+            <p n="2">II. That their Lordſhips had likewiſe com<g ref="char:EOLhyphen"/>manded him, to put them in minde that they likewiſe ſent to them two Declarations for their concurrence, One from the Gene<g ref="char:EOLhyphen"/>rall his Excellency Sir <hi>Thomas Fairfax,</hi> and the Army: The other from the Lords and Commons and the Speakers, who went to the Army for ſafety. Both which declared the proceedings of the Members in their ab<g ref="char:EOLhyphen"/>ſence to be forced, and invalid.</p>
+            <p n="3">III. That their Lordſhips had commanded him to acquaint them that they had received their Expedite, ſent up by a Meſſage this day, by ſome of their Members, <hi>(which
+<pb n="3" facs="tcp:113293:3"/>was for Nulling the forced Votes and Proceedings by a Repeale)</hi> And that their Lordſhips had Voted to lay it aſide, and adhered to their former <hi>Votes.</hi>
+            </p>
+            <p n="4">IV. That their Lordſhips had commanded him, to deliver to them Certain Reaſons of the great dangers that are like to follow, if the Parliament be not Vindicated and right<g ref="char:EOLhyphen"/>ed, by a ſpeedy courſe herein.</p>
+            <p>The Subſtance of which Reaſons was thus:</p>
+            <list>
+               <item>Firſt, <hi>That if a ſpeedy courſe be not taken here<g ref="char:EOLhyphen"/>in, there is no proviſions can be made for the ſafe<g ref="char:EOLhyphen"/>ty of a free Parliament ſitting, becauſe in theſe things the Houſes were forced in a moſt inſolent and viſible manner.</hi>
+               </item>
+               <item>Secondly, <hi>That the Parliament ſhould bee hereby liable to doe whatſoever they ſhall further force them to hereafter in the like manner. Con<g ref="char:EOLhyphen"/>trary to the freedome and priviledge of Parlia<g ref="char:EOLhyphen"/>ments; And hereby they gaine the Authority of Parliament, to make good what they force.</hi>
+               </item>
+               <item>Thirdly, <hi>That whatſoever force ſhall be ſet upon the Parliament, to oppoſe their proceedings; and thereby force the Houſes to Act what they
+<pb n="4" facs="tcp:113293:4"/>pleaſe; There can be no po<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er obtained to puniſh them for ſo great inſolencies.</hi>
+               </item>
+            </list>
+            <p n="5">V. That their Lordſhips had commanded him to deliver to them a Declaration, (<hi>where<g ref="char:EOLhyphen"/>by their Lordſhips do declare, That they have uſed all poſsible meanes that the Houſes of Parliament, may be righted and vindicated herein, againſt the inſolent, and viſible mutinings ſet upon them to force them and diſturbe the proceedings of a fre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Parliament, in which their Lordſhips doe acquit themſelves, that they have done, what in the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lyes to vindicate and right the Parliament here<g ref="char:EOLhyphen"/>in.</hi>
+            </p>
+            <p n="6">VI. That their Lordſhips have now paſſed an Ordinance for the making of the Votes null, paſſed on Monday <hi>July</hi> 26, and ſo on till Friday <hi>Auguſt</hi> 6. And declaring againſt the ſame, to which Ordinance they deſire the ſpee<g ref="char:EOLhyphen"/>dy concurrence of the Houſ of Com<g ref="char:EOLhyphen"/>mons,</p>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:113293:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris 13 Auguſt, 1647.</date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by the Lords and Commons in Parliament. Aſ<g ref="char:EOLhyphen"/>ſembled, That the Earle of <hi>Denbigh</hi> Earle of <hi>Malgrave,</hi> Lord <hi>Grey</hi> of <hi>Warke,</hi> Lord <hi>Howard,</hi> Sir <hi>Arthur Ha<g ref="char:EOLhyphen"/>zlerigge.</hi> Mr. <hi>Solliciter,</hi> Mr. <hi>Gurdon,</hi> Mr. <hi>Miles Corbet,</hi> Mr. <hi>Alderman Pennington,</hi> Mr. <hi>A<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in,</hi> Mr. <hi>Humphry Edwards,</hi> and Collonel <hi>
+                  <g ref="char:V">Ʋ</g>en,</hi> or any three of them be a ſub-Committee of the Committee appointed by both Houſes on Friday laſt: And that they have power to ſend for parties and witneſſes, and to proceed (under ſe<g ref="char:EOLhyphen"/>crecy) at all times when they thinke fit in preparing the examinations of
+<pb n="6" facs="tcp:113293:5"/>the buſineſſes committed to the ſaid Committee: And that they or any three of them may adminiſter an oath unto any perſons in ſuch things as ſhall not render the parties criminall that are ſo ſworne.</p>
+            <closer>
+               <signed>Henry Elſyng Cler. Par. Dom. Comm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
